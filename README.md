@@ -1,6 +1,6 @@
 # Python Projects - Summer 2022
 
-This repository contains various Python projects I developed during the summer of 2022 as part of the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp." Each project focuses on different aspects of Python programming, from basic syntax and data structures to more advanced topics like web development and data analysis.
+This repository contains various Python projects I developed during the summer of 2022 as part of the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp." Each project focuses on different aspects of Python programming, from syntax and data structures to more advanced topics like web development and data analysis.
 
 ## Projects Overview
 
@@ -110,3 +110,10 @@ This repository contains various Python projects I developed during the summer o
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
+## Technologies Used
+- **Python:** Core programming language used for all projects.
+- **Tkinter:** For creating graphical user interfaces.
+- **Selenium:** For web automation.
+- **APIs:** Used in various projects for fetching real-time data.
+- **Pandas:** For data manipulation and analysis.
